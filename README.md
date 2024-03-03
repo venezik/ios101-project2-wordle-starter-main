@@ -34,7 +34,6 @@ The following **additional** features are implemented:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a07bf66339de4a1b85f7f53f892c788e-with-play.gif">
     </a>
   </div>
-
 ## Notes
 
 Describe any challenges encountered while building the app.
